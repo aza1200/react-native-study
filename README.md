@@ -36,7 +36,7 @@ React Native 를 처음 시작하는 개발자들이 웹개발 기초부터의 �
 
 ### 글
 
-- 📜 [HTML, CSS, Javascript ](https://parkjh7764.tistory.com/45)
+- 📜 [HTML, CSS, Javascript 기초](https://parkjh7764.tistory.com/45)
 
 ### 영상
 
