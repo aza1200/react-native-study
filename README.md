@@ -24,14 +24,15 @@ React Native 를 처음 시작하는 개발자들이 웹개발 기초부터의 �
 ## 목차
 
 #### 👉 1주차 웹 개발 기초 
-1. **[웹이란?](#1-호출-스택)**
-2. **[FlexBox 란?](#2-flexbox)**
+1. **[웹이란?](#1-웹의-역사)**
+1. **[깃허브 사용법](#2-깃허브)**    
+1. **[FlexBox 란?](#3-flexbox)**
     
 #### 👉 2주차 React JS 개념 학습
 
 ---
 
-## 1. 호출 스택
+## 1. 웹의 역사
 
 ### 글
 
@@ -45,6 +46,32 @@ React Native 를 처음 시작하는 개발자들이 웹개발 기초부터의 �
 ---
 
     
+## 2. 깃허브
+
+### 글
+
+- 📜 [Understanding Javascript Call Stack, Event Loops — Gaurav Pandvia](https://medium.com/@gaurav.pandvia/understanding-javascript-function-executions-tasks-event-loop-call-stack-more-part-1-5683dea1f5ec)
+
+### 영상
+
+- 🎥 [Javascript: the Call Stack explained — Coding Blocks India](https://www.youtube.com/watch?v=w6QGEiQceOM)
+**[⬆ Back to Top](#목차)**
+
+---
+
+
+## 3. flexbox
+
+### 글
+
+- 📜 [Understanding Javascript Call Stack, Event Loops — Gaurav Pandvia](https://medium.com/@gaurav.pandvia/understanding-javascript-function-executions-tasks-event-loop-call-stack-more-part-1-5683dea1f5ec)
+
+### 영상
+
+- 🎥 [Javascript: the Call Stack explained — Coding Blocks India](https://www.youtube.com/watch?v=w6QGEiQceOM)
+**[⬆ Back to Top](#목차)**
+
+---    
 ## 👉 인성 면접
 
 - [1️⃣ **인성 질문**](/인성/1_인성.md)
