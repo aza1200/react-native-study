@@ -3,7 +3,7 @@
   <a href="https://github.com/aza1200/react-native-study"><img src="https://reactnative.dev/img/header_logo.svg" alt="React Native 앱 개발을 목표로 하기 위한 공유 스터디 저장소" width=200"></a>
   <br>
     <br>
-  React Native 앱 개발을 목표로 하기 위한 공유 스터디 저장소
+  React Native 앱 개발을 목표로 하는 공유 스터디 저장소
   <br><br>
 </h1>
 
