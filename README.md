@@ -1,6 +1,6 @@
 ﻿<h1 align="center">
 <br>
-  <a href="https://github.com/leonardomso/33"><img src="https://reactnative.dev/img/header_logo.svg" alt="33 Concepts Every JS Developer Should Know" width=200"></a>
+  <a href="https://github.com/aza1200/react-native-study"><img src="https://reactnative.dev/img/header_logo.svg" alt="React Native 앱 개발을 목표로 하기 위한 공유 스터디 저장소" width=200"></a>
   <br>
     <br>
   React Native 앱 개발을 목표로 하기 위한 공유 스터디 저장소
