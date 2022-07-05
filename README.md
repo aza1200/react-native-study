@@ -40,7 +40,7 @@ React Native 를 처음 시작하는 개발자들이 웹개발 기초부터의 �
 
 ### 영상
 
-- 🎥 [Javascript: the Call Stack explained — Coding Blocks India](https://www.youtube.com/watch?v=w6QGEiQceOM)
+- 🎥 [Javascript: the Call Stack explained — Coding Blocks India](https://www.youtube.com/watch?v=w6QGEiQceOM)  
 **[⬆ Back to Top](#목차)**
 
 ---
@@ -54,7 +54,7 @@ React Native 를 처음 시작하는 개발자들이 웹개발 기초부터의 �
 
 ### 영상
 
-- 🎥 [Javascript: the Call Stack explained — Coding Blocks India](https://www.youtube.com/watch?v=w6QGEiQceOM)
+- 🎥 [Javascript: the Call Stack explained — Coding Blocks India](https://www.youtube.com/watch?v=w6QGEiQceOM)  
 **[⬆ Back to Top](#목차)**
 
 ---
@@ -68,7 +68,7 @@ React Native 를 처음 시작하는 개발자들이 웹개발 기초부터의 �
 
 ### 영상
 
-- 🎥 [Javascript: the Call Stack explained — Coding Blocks India](https://www.youtube.com/watch?v=w6QGEiQceOM)
+- 🎥 [Javascript: the Call Stack explained — Coding Blocks India](https://www.youtube.com/watch?v=w6QGEiQceOM)  
 **[⬆ Back to Top](#목차)**
 
 ---    
