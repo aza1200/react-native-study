@@ -36,7 +36,7 @@ React Native 를 처음 시작하는 개발자들이 웹개발 기초부터의 �
 
 ### 글
 
-- 📜 [웹의 기본동작 ](https://velog.io/@solmii/TIL-Web%EC%9D%98-%EA%B8%B0%EB%B3%B8-%EB%8F%99%EC%9E%91-%EC%9B%90%EB%A6%AC)
+- 📜 [웹의 기본동작 원리](https://velog.io/@solmii/TIL-Web%EC%9D%98-%EA%B8%B0%EB%B3%B8-%EB%8F%99%EC%9E%91-%EC%9B%90%EB%A6%AC)
 
 ### 영상
 
