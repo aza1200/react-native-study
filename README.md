@@ -29,7 +29,7 @@ React Native 를 처음 시작하는 개발자들이 웹개발 기초부터의 �
 1. **[FlexBox 란?](#3-flexbox)**
     
 #### 👉 2주차 React JS 개념 학습
-
+#### 👉 3주차 React Native 개념 학습
 ---
 
 ## 1. 웹의 역사
