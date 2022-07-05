@@ -88,10 +88,9 @@ React Native 를 처음 시작하는 개발자들이 웹개발 기초부터의 �
 
 
 <br>
-    
+
 > :bookmark: **REFERENCE** <br>
-<br>
-[면접 질문 모음집](https://github.com/4z7l/tech_interview.zip)<br>    
+[https://ktko.tistory.com/entry/자바-손코딩-문제](https://ktko.tistory.com/entry/%EC%9E%90%EB%B0%94-%EC%86%90%EC%BD%94%EB%94%A9-%EB%AC%B8%EC%A0%9C)<br>
 [https://www.midashri.com/blog/500interviewlist](https://www.midashri.com/blog/500interviewlist)<br>
 [https://gyoogle.dev/blog/guide/면접 준비.html](https://gyoogle.dev/blog/guide/%EB%A9%B4%EC%A0%91%20%EC%A4%80%EB%B9%84.html)<br>
 [https://github.com/JaeYeopHan/Interview_Question_for_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)<br>
@@ -99,4 +98,5 @@ React Native 를 처음 시작하는 개발자들이 웹개발 기초부터의 �
 [https://mangkyu.tistory.com/88](https://mangkyu.tistory.com/88)<br>
 [https://github.com/WooVictory/Ready-For-Tech-Interview](https://github.com/WooVictory/Ready-For-Tech-Interview)<br>
 [https://github.com/brave-people/brave-tech-interview](https://github.com/brave-people/brave-tech-interview)<br>
+
 
