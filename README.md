@@ -75,22 +75,12 @@ React Native 를 처음 시작하는 개발자들이 웹개발 기초부터의 �
 **[⬆ Back to Top](#목차)**
 
 ---    
-## 👉 인성 면접
-
-- [1️⃣ **인성 질문**](/인성/1_인성.md)
-- [2️⃣ **역량 질문**](/인성/2_역량.md)
-- [3️⃣ **경험 질문**](/인성/3_경험.md)
-- [4️⃣ **압박 질문**](/인성/4_압박.md)
-- [5️⃣ **기타 질문**](/인성/5_기타.md)
-- [6️⃣ **돌발/창의성 질문**](/인성/6_돌발창의성.md)
-- [7️⃣ **기업/직무 적합도 및 관심도 질문**](/인성/7_적합도.md)
-- [8️⃣ **IT기업 질문**](/인성/8_IT.md)
 
 
 <br>
 
 > :bookmark: **REFERENCE** <br>
-[https://ktko.tistory.com/entry/자바-손코딩-문제](https://ktko.tistory.com/entry/%EC%9E%90%EB%B0%94-%EC%86%90%EC%BD%94%EB%94%A9-%EB%AC%B8%EC%A0%9C)<br>
+[https://github.com/4z7l/tech_interview.zip](https://github.com/4z7l/tech_interview.zip)<br>
 [https://www.midashri.com/blog/500interviewlist](https://www.midashri.com/blog/500interviewlist)<br>
 [https://gyoogle.dev/blog/guide/면접 준비.html](https://gyoogle.dev/blog/guide/%EB%A9%B4%EC%A0%91%20%EC%A4%80%EB%B9%84.html)<br>
 [https://github.com/JaeYeopHan/Interview_Question_for_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)<br>
