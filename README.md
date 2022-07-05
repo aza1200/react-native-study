@@ -3,7 +3,7 @@
   <a href="https://github.com/leonardomso/33"><img src="https://i.imgur.com/dsHmk6H.jpg" alt="33 Concepts Every JS Developer Should Know" width=200"></a>
   <br>
     <br>
-  React Native 개발을 위한 공동 스터디 저장소
+  React Native 개발을 위한 공유 스터디 저장소
   <br><br>
 </h1>
 
