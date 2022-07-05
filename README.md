@@ -78,7 +78,7 @@ React Native 를 처음 시작하는 개발자들이 웹개발 기초부터의 �
 
 ### 글
 
-- 📜 [Understanding Javascript Call Stack, Event Loops — Gaurav Pandvia](https://medium.com/@gaurav.pandvia/understanding-javascript-function-executions-tasks-event-loop-call-stack-more-part-1-5683dea1f5ec)
+- 📜 [마크다운 - MarkDown 사용법](https://gist.github.com/ihoneymon/652be052a0727ad59601)
 
 ### 영상
 
