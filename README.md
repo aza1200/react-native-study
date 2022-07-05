@@ -27,7 +27,7 @@ React Native 를 처음 시작하는 개발자들이 웹개발 기초부터의 �
 1. **[웹이란?](#1-웹의-역사)**
 1. **[깃허브 사용법](#2-깃허브)**    
 1. **[FlexBox 란?](#3-flexbox)**
-    
+1. **[md 파일 작성방법](#4-마크다운-)    
 #### 👉 2주차 React JS 개념 학습
 #### 👉 3주차 React Native 개념 학습
 ---
@@ -74,19 +74,26 @@ React Native 를 처음 시작하는 개발자들이 웹개발 기초부터의 �
     
 **[⬆ Back to Top](#목차)**
 
+## 4. 마크다운 사용법
+
+### 글
+
+- 📜 [Understanding Javascript Call Stack, Event Loops — Gaurav Pandvia](https://medium.com/@gaurav.pandvia/understanding-javascript-function-executions-tasks-event-loop-call-stack-more-part-1-5683dea1f5ec)
+
+### 영상
+
+- 🎥 [Javascript: the Call Stack explained — Coding Blocks India](https://www.youtube.com/watch?v=w6QGEiQceOM)  
+    
+**[⬆ Back to Top](#목차)**    
+    
 ---    
 
 
 <br>
 
 > :bookmark: **REFERENCE** <br>
-[https://github.com/4z7l/tech_interview.zip](https://github.com/4z7l/tech_interview.zip)<br>
+[면접 질문 모음집](https://github.com/4z7l/tech_interview.zip)<br>
 [좋은 개발팀을 만드는데 도움이 되는 자료](https://github.com/leehosung/awesome-devteam)<br>
-[https://gyoogle.dev/blog/guide/면접 준비.html](https://gyoogle.dev/blog/guide/%EB%A9%B4%EC%A0%91%20%EC%A4%80%EB%B9%84.html)<br>
-[https://github.com/JaeYeopHan/Interview_Question_for_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)<br>
-[https://github.com/WeareSoft/tech-interview](https://github.com/WeareSoft/tech-interview)<br>
-[https://mangkyu.tistory.com/88](https://mangkyu.tistory.com/88)<br>
-[https://github.com/WooVictory/Ready-For-Tech-Interview](https://github.com/WooVictory/Ready-For-Tech-Interview)<br>
-[https://github.com/brave-people/brave-tech-interview](https://github.com/brave-people/brave-tech-interview)<br>
+[국내 스시 오마카세 맛집리스트](https://github.com/738/awesome-sushi)<br>
 
 
