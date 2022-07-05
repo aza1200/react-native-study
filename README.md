@@ -24,7 +24,7 @@ React Native 를 처음 시작하는 개발자들이 웹개발 기초부터의 �
 ## 목차
 
 #### 👉 1주차 웹 개발 기초 
-1. **[웹이란?](#1-웹의-역사)**
+1. **[웹이란?](#1-웹개발-기초)**
 1. **[깃허브 사용법](#2-깃허브)**    
 1. **[FlexBox 란?](#3-flexbox)**
 1. **[md 파일 작성방법](#4-마크다운-사용법)**    
@@ -32,15 +32,15 @@ React Native 를 처음 시작하는 개발자들이 웹개발 기초부터의 �
 #### 👉 3주차 React Native 개념 학습
 ---
 
-## 1. 웹의 역사
+## 1. 웹개발 기초
 
 ### 글
 
-- 📜 [Understanding Javascript Call Stack, Event Loops — Gaurav Pandvia](https://medium.com/@gaurav.pandvia/understanding-javascript-function-executions-tasks-event-loop-call-stack-more-part-1-5683dea1f5ec)
+- 📜 [웹의 기본동작 ](https://velog.io/@solmii/TIL-Web%EC%9D%98-%EA%B8%B0%EB%B3%B8-%EB%8F%99%EC%9E%91-%EC%9B%90%EB%A6%AC)
 
 ### 영상
 
-- 🎥 [Javascript: the Call Stack explained — Coding Blocks India](https://www.youtube.com/watch?v=w6QGEiQceOM)  
+- 🎥 [HTML 핵심만 배우기](https://www.youtube.com/watch?v=rgI930gqdaY)  
     
 **[⬆ Back to Top](#목차)**
 
