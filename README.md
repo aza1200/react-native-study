@@ -81,7 +81,7 @@ React Native 를 처음 시작하는 개발자들이 웹개발 기초부터의 �
 
 > :bookmark: **REFERENCE** <br>
 [https://github.com/4z7l/tech_interview.zip](https://github.com/4z7l/tech_interview.zip)<br>
-[https://www.midashri.com/blog/500interviewlist](https://www.midashri.com/blog/500interviewlist)<br>
+[좋은 개발팀을 만드는데 도움이 되는 자료](https://github.com/leehosung/awesome-devteam)<br>
 [https://gyoogle.dev/blog/guide/면접 준비.html](https://gyoogle.dev/blog/guide/%EB%A9%B4%EC%A0%91%20%EC%A4%80%EB%B9%84.html)<br>
 [https://github.com/JaeYeopHan/Interview_Question_for_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)<br>
 [https://github.com/WeareSoft/tech-interview](https://github.com/WeareSoft/tech-interview)<br>
