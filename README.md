@@ -133,10 +133,6 @@ React Native 를 처음 시작하는 개발자들이 웹개발 기초부터의 �
 
 ## 8. 웹사이트 튜토리얼
 
-### 글
-
-- 📜 [Grid 기초]()
-
 ### 영상
 
 - 🎥 [추억의 게임! 테트리스 HTML, Javascript로 만들기](https://www.youtube.com/watch?v=1lNy2mhvLFk)  
