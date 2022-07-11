@@ -25,9 +25,10 @@ React Native 를 처음 시작하는 개발자들이 웹개발 기초부터의 �
 
 #### 👉 1주차 웹 개발 기초 
 1. **[웹이란?](#1-웹개발-기초)**
-1. **[깃허브 사용법](#2-깃허브)**    
-1. **[FlexBox 란?](#3-flexbox)**
-1. **[md 파일 작성방법](#4-마크다운-사용법)**    
+2. **[깃허브 사용법](#2-깃허브)**    
+3. **[FlexBox 란?](#3-flexbox)**
+4. **[md 파일 작성방법](#4-마크다운-사용법)**    
+5. **[vscode 사용방법](#5-vscode-이용방법)**
 #### 👉 2주차 React JS 개념 학습
 #### 👉 3주차 React Native 개념 학습
 ---
@@ -89,7 +90,18 @@ React Native 를 처음 시작하는 개발자들이 웹개발 기초부터의 �
 - 🎥 [마크다운 6분 순삭정리](https://www.youtube.com/watch?v=kMEb_BzyUqk)  
     
 **[⬆ Back to Top](#목차)**    
+
+## 5. vscode 이용방법
+
+### 글
+
+- 📜 [vscode 테마추천](https://blog.fakecoding.com/archives/vscode-theme-recommand)
+
+### 영상
+
+- 🎥 [프로처럼 vsc 세팅하기](https://www.youtube.com/shorts/cdqULOmORVU)  
     
+**[⬆ Back to Top](#목차)**        
 ---    
 
 
