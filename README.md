@@ -52,12 +52,13 @@ React Native 를 처음 시작하는 개발자들이 웹개발 기초부터의 �
 
 ### 글
 
-- 📜 [Understanding Javascript Call Stack, Event Loops — Gaurav Pandvia](https://medium.com/@gaurav.pandvia/understanding-javascript-function-executions-tasks-event-loop-call-stack-more-part-1-5683dea1f5ec)
+- 📜 [깃허브 튜토리얼](https://mrw0119.tistory.com/120)
 
 ### 영상
 
-- 🎥 [Javascript: the Call Stack explained — Coding Blocks India](https://www.youtube.com/watch?v=w6QGEiQceOM)  
-    
+- 🎥 [깃, 깃허브 기초개념 잡아드림](https://www.youtube.com/watch?v=YFNQwo7iTNc)
+- 🎥 [깃허브 계정 제대로 꾸미기](https://www.youtube.com/watch?v=w9DfC2BHGPA)
+
 **[⬆ Back to Top](#목차)**
 
 ---
@@ -67,11 +68,11 @@ React Native 를 처음 시작하는 개발자들이 웹개발 기초부터의 �
 
 ### 글
 
-- 📜 [Understanding Javascript Call Stack, Event Loops — Gaurav Pandvia](https://medium.com/@gaurav.pandvia/understanding-javascript-function-executions-tasks-event-loop-call-stack-more-part-1-5683dea1f5ec)
+- 📜 [flexbox 기본개념](https://developer.mozilla.org/ko/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox)
 
 ### 영상
 
-- 🎥 [Javascript: the Call Stack explained — Coding Blocks India](https://www.youtube.com/watch?v=w6QGEiQceOM)  
+- 🎥 [FlexBox 기초](https://www.youtube.com/watch?v=7neASrWEFEM&t=4s)  
 
 ### 게임
 
