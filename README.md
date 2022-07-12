@@ -124,7 +124,7 @@ React Native 를 처음 시작하는 개발자들이 웹개발 기초부터의 �
 
 ### 글
 
-- 📜 [Grid 기초]()
+- 📜 [Grid 기초](https://developer.mozilla.org/ko/docs/Web/CSS/CSS_Grid_Layout/Basic_concepts_of_grid_layout)
 
 ### 영상
 
