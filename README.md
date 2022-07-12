@@ -138,7 +138,7 @@ React Native 를 처음 시작하는 개발자들이 웹개발 기초부터의 �
 
 - 🎥 [추억의 게임! 테트리스 HTML, Javascript로 만들기](https://www.youtube.com/watch?v=1lNy2mhvLFk)  
 - 🎥 [3D 구글 공룡게임 만들기 + 플레이가능](https://www.youtube.com/watch?v=nAMmUDSiUQ8)  
-- 🎥 [크롬 공룡게임 만드릭 1편](https://www.youtube.com/watch?v=qkTtmgCjHhM)  
+- 🎥 [크롬 공룡게임 만 1편](https://www.youtube.com/watch?v=qkTtmgCjHhM)  
 - 🎥 [JavaScript로 요즘 유행하는 Wordle 게임 만들기 (개쉬움)](https://www.youtube.com/watch?v=npvrAzxgTOQ)  
 
 
