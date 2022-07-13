@@ -112,11 +112,13 @@ React Native 를 처음 시작하는 개발자들이 웹개발 기초부터의 �
 
 ### 글
 
-- 📜 [동기 비동기 기초]()
+- 📜 [동기 비동기 설명1](https://tristy.tistory.com/51)
+- 📜 [동기 비동기 설명2](https://it-eldorado.tistory.com/86)
+- 📜 [동기 비동기 설명3](https://ljtaek2.tistory.com/129?category=897337)
 
-### 영상
+### 게임
 
-- 🎥 [동기 비동기 설명]()  
+- 🎮 [자바스크립트 비동기 시뮬레이터](http://latentflip.com/loupe/?code=JC5vbignYnV0dG9uJywgJ2NsaWNrJywgZnVuY3Rpb24gb25DbGljaygpIHsKICAgIHNldFRpbWVvdXQoZnVuY3Rpb24gdGltZXIoKSB7CiAgICAgICAgY29uc29sZS5sb2coJ1lvdSBjbGlja2VkIHRoZSBidXR0b24hJyk7ICAgIAogICAgfSwgMjAwMCk7Cn0pOwoKY29uc29sZS5sb2coIkhpISIpOwoKc2V0VGltZW91dChmdW5jdGlvbiB0aW1lb3V0KCkgewogICAgY29uc29sZS5sb2coIkNsaWNrIHRoZSBidXR0b24hIik7Cn0sIDUwMDApOwoKY29uc29sZS5sb2coIldlbGNvbWUgdG8gbG91cGUuIik7!!!PGJ1dHRvbj5DbGljayBtZSE8L2J1dHRvbj4%3D) 
     
 **[⬆ Back to Top](#목차)**        
     
