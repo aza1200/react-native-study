@@ -18,7 +18,7 @@
 
 ## 소개
 
-React Native 를 처음 시작하는 개발자들이 웹개발 기초부터의 개념을 마스터하기위해, 스터디 매주차의 학습내용을 기록하기 위해 만들어졌습니다. [노마드 코더](https://nomadcoders.co/)의 강의를 기반으로 만들어졌으며 추가적인 내용을 정리할 계획입니다.   
+React Native 를 처음 시작하는 개발자들이 웹개발 기초부터의 개념을 마스터하기위해, 스터디 매주차의 학습내용을 기록하기 위해 만들어졌습니다. [노마드 코더](https://nomadcoders.co/)의 강의를 기반으로 만들어졌으며 추가적인 내용을 정리할 계획입니다   
 
 
 ## 목차
@@ -158,4 +158,7 @@ React Native 를 처음 시작하는 개발자들이 웹개발 기초부터의 �
 [좋은 개발팀을 만드는데 도움이 되는 자료](https://github.com/leehosung/awesome-devteam)<br>
 [국내 스시 오마카세 맛집리스트](https://github.com/738/awesome-sushi)<br>
 [모든 자바스크립트 개발자가 알아야 하는 33가지 개념](https://github.com/yjs03057/33-js-concepts)<br>
+
+
+[김재형]
 
