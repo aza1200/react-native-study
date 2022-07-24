@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    width: 100%;
+    height: 20px;
+    background: skyblue;
+}
+
+.container{
+    display:flex;
+    /* border:3px solid black; */
+}
+
+.item{
+    display:flex;
+    color:white;
+    width: 20px;
+    height: 5px;
+    font-size:50px;
+    padding:.8em;
+    justify-content:center;
+    align-items:center;
+}
+
+.red {
+    background: red;
+}
+.orange {
+    background: orange;
+}
+.yellow {
+    background: yellow;
+}
+.green {
+    background: green;
+}
+.blue {
+    background: blue;
+}  
