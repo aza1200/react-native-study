@@ -158,6 +158,3 @@ React Native 를 처음 시작하는 개발자들이 웹개발 기초부터의 �
 [좋은 개발팀을 만드는데 도움이 되는 자료](https://github.com/leehosung/awesome-devteam)<br>
 [국내 스시 오마카세 맛집리스트](https://github.com/738/awesome-sushi)<br>
 [모든 자바스크립트 개발자가 알아야 하는 33가지 개념](https://github.com/yjs03057/33-js-concepts)<br>
-
-
-집가고집다
