@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+    <body>
+        <div id="root"></div>
+    </body>
+    <script src="https://unpkg.com/react@18.2.0/umd/react.production.min.js"></script>
+    <script src="https://unpkg.com/react-dom@18.2.0/umd/react-dom.production.min.js"></script>
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+    <script  type="text/babel">
+        const root  = document.getElementById("root");
+        function  App(){
+            const [counter, setCounter]  = React.useState(0);
+            const onClick = () =>  {
+                setCounter(counter+1);
+            }
+            return(
+                <div>
+                    <h3>Total clicks  :  {counter}</h3>
+                    <button  onClick={onClick}>Click me</button>
+                </div>
+            )
+        }
+        ReactDOM.render(<App/>,  root);
+    </script>
+</html>
+
+<!--react js : 어플리케이션이  interactive 하도록 만들어주는 library-->
+<!--react dom ->  library 혹은 패키지 인데 react element  들을 html body 에 둘수 있도록 해준다.-->
