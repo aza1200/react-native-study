@@ -41,6 +41,8 @@ React Native 를 처음 시작하는 개발자들이 웹개발 기초부터의 �
  [세션, 쿠키, 웹스토리지 차이 1](https://doqtqu.tistory.com/306#toc-Reference)
  
  [세션, 쿠키, 웹스토리지 차이 2](https://racoonlotty.tistory.com/entry/%EC%BF%A0%ED%82%A4%EC%99%80-%EC%84%B8%EC%85%98-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EB%A1%9C%EC%BB%AC-%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%A7%80%EC%99%80-%EC%84%B8%EC%85%98-%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%A7%80)
+ 
+ [웹스토리지 차이](https://ko.javascript.info/localstorage)
     
 
 <br>
