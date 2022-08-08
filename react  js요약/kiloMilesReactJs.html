@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+    <body>
+        <div id="root"></div>
+    </body>
+    <script src="https://unpkg.com/react@18.2.0/umd/react.production.min.js"></script>
+    <script src="https://unpkg.com/react-dom@18.2.0/umd/react-dom.production.min.js"></script>
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+    <script  type="text/babel">
+        function  App(){
+            const [amount, setAmount] = React.useState(0);
+            const [flipped, setFlipped] = React.useState(false);
+
+            const onChange = (event) => {
+                setAmount(event.target.value)
+            }
+            const reset = () => setAmount(0);
+            const onFlip = () => {
+                reset();
+                setFlipped((current) => !current);
+            }
+            return (
+                <div>
+                    <h1>Super Converter</h1>
+                    <div>
+                        <label htmlFor="minutes">Minutes</label>
+                        <input
+                            value={flipped ? amount*60 : amount}
+                            id="minutes"
+                            placeholder="Minutes"
+                            type="number"
+                            onChange={onChange}
+                            disabled = {flipped===true}
+                        />
+                    </div>
+
+                    <div>
+                        <label htmlFor="hours">Hours</label>
+                        <input
+                            value={flipped ? amount : Math.round(amount/60)}
+                            id="hours"
+                            placeholder="Hours"
+                            type="number"
+                            onChange={onChange}
+                            disabled = {flipped===false}
+                        />
+                    </div>
+                    <button onClick={reset}>Reset</button>
+                    <button onClick={onFlip}>Flipped</button>
+                </div>
+            )
+        }
+        const root  = document.getElementById("root");
+        ReactDOM.render(<App/>,  root);
+    </script>
+</html>
+
+<!--react js : 어플리케이션이  interactive 하도록 만들어주는 library-->
+<!--react dom ->  library 혹은 패키지 인데 react element  들을 html body 에 둘수 있도록 해준다.-->
