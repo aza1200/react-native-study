@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+    <body>
+        <div id="root"></div>
+    </body>
+    <script src="https://unpkg.com/react@18.2.0/umd/react.production.min.js"></script>
+    <script src="https://unpkg.com/react-dom@18.2.0/umd/react-dom.production.min.js"></script>
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+    <script  type="text/babel">
+        function MinutesToHours(){
+
+        }
+        function KmToMiles(){
+
+        }
+        function App(){
+            const [index, setIndex] = React.useState("x");
+            const onSelect = (event) => {
+                console.log(event.target.value);
+            }
+
+            
+            return (
+                <div>
+                    <h1>Super Converter</h1>
+                    <select onChange={onSelect}>
+                        <option value="x">Select your Unites</option>
+                        <option value="0">Minutes & Hours</option>
+                        <option value="1">Km & Miles</option>
+                    </select>
+                    <hr/>
+                    {index === "x" ? "Please select your units" : null}
+                    {index === "0" ? <MinutesToHours/> : null}
+                    {index === "1" ? <KmToMiles/> : null}
+                </div>
+            )
+        }
+        const root  = document.getElementById("root");
+        ReactDOM.render(<App/>,  root);
+    </script>
+</html>
+
+<!--react js : 어플리케이션이  interactive 하도록 만들어주는 library-->
+<!--react dom ->  library 혹은 패키지 인데 react element  들을 html body 에 둘수 있도록 해준다.-->
