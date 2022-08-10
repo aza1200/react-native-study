@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+    <body>
+        <div id="root"></div>
+    </body>
+    <script src="https://unpkg.com/react@18.2.0/umd/react.production.min.js"></script>
+    <script src="https://unpkg.com/react-dom@18.2.0/umd/react-dom.production.min.js"></script>
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+    <script  type="text/babel">
+        function Btn({text, onClick}){
+            console.log(text, "was Rendered")
+            return <button
+                onClick = {onClick}
+                style={{
+                    backgroundColor: "tomato",
+                    color:"white",
+                    padding:"10px 20px",
+                    border: 0,
+                    borderRadius: 10,
+                    fontSize: 16
+                }}
+            >{text}</button>;
+        }
+        const MemorizedBtn = React.memo(Btn)
+        function  App(){
+           const [value, setValue] = React.useState("Save Changes")
+           const changeValue = () => setValue("Revert Changes")
+
+           return(
+            <div>
+                <MemorizedBtn text={value} onClick={changeValue}/>
+                <MemorizedBtn text="Continue"/>
+            </div>
+           )
+        }
+        const root  = document.getElementById("root");
+        ReactDOM.render(<App/>,  root);
+    </script>
+</html>
+
+<!--react js : 어플리케이션이  interactive 하도록 만들어주는 library-->
+<!--react dom ->  library 혹은 패키지 인데 react element  들을 html body 에 둘수 있도록 해준다.-->
