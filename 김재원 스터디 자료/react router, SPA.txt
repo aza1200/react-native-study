@@ -1,0 +1,63 @@
+https://goddaehee.tistory.com/305
+Routing:  app() 함수 내에서 모든 컴포넌트 상태가 바뀌도록 해놓으면 
+특정 페이지 내에서 모든 변경사항이 이루어지기 때문에
+즐겨찾기, 뒤로가기 기능 사용 어려움/ 새로고침 사용 시 사용중이던 컴포넌트가 아닌 최초 렌더링된 
+사이트의 메인으로 이동/ 검색 엔진 최적화 방식에서도 원치않는 방식으로 색인될 수 있음
+
+Link to : html의 <a> 태그와 유사
+Route: 현재 주소창의 경로와 매치될 경우 보여줄 컴포넌트 지정
+Router: Route와 Link to  컴포넌트가 유기적으로 동작하도록 묶어줌// Route와 Link 컴포넌트는
+            Dom 트리 내에서 항상 Router를 공통 상위 컴포넌트로 가져야 함.
+
+Route 컴포넌트에 exact prop을 사용하면 정확히 element(component) 값이 매치해야지만 작동.
+<SPA라 하더라도 한 개의 페이지만 사용하는 것은 아님..컴포넌트들의 주소에 따라 컴포넌트 배치를
+변경하는 것을 보고 라우팅(Routing)이라 한다.>
+-------------------------------------------------------------
+https://velog.io/@gwanuuoo/SPA%EB%8A%94-%EA%B8%B0%EC%A1%B4-%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8%EC%99%80-%EC%B0%A8%EC%9D%B4
+https://intrepidgeeks.com/tutorial/reaction-what-is-spa
+https://codingmania.tistory.com/328
+https://about-tech.tistory.com/entry/Programming-SPASingle-Page-Application%EC%9D%B4%EB%9E%80-%EC%9E%A5%EC%A0%90%EA%B3%BC-%EB%8B%A8%EC%A0%90
+
+SPA : single Page Application
+원래는 웹 어플리케이션 뷰를 서버에서 담당 ( 페이지를 로딩할 때마다 서버에서 리소스 전달받아 렌더링)
+->규모가 커짐에 따라 정보 전송 과부하 문제
+-->So 뷰 렌더링을 서버가 아닌 웹 브라우저가 담당.
+
+필요한 모든 정적 리소스를 처음에 한번만 다운로드
+페이지 간 이동 시 페이지 갱신에 필요한 데이터만을 <JSON>으로 전달받아 페이지 갱신
+
+장: 전체 페이지를 렌더링 하지 않고 변경되는 부분만을 갱신하므로 모바일 웹에 최적화(속도, 사용성, 반응성 향상)
+단: 초기 구동속도가 느리고 자바스크립트 기반 비동기 모델로 작동하기 때문에 SEO(검색엔진 최적화)에 있어서
+     문제가 발생한다. 처음 로드된 페이지의 소스 내에선 검색엔진이 색인할만한 컨텐츠가 들어있지 않음.
+BUT React등의 프레임워크에서 서버렌더링을 지원하는 기술이 존재하기 때문에 SSR로 해결가능(SEO문제)
+
+vs
+MPA(Multiple Page Application)
+
+새로운 페이지를 요청할 때마다 매번 정적 리소스가 다운로드 되고 매번 전체 페이지가 리렌더링 된다.
+
+장: SEO 관점에서 유리, 완성된 형태의 HTML 파일을 서버로부터 전달 받기 때문에 페이지 크롤링에 적합
+     첫 로딩 짧음
+단: 새로운 페이지로 이동하면 '깜빡'이는 딜레이 발생 (UX 관점)
+     매 페이지 요청마다 리렌더링 발생
+     페이지 이동시 불필요한 템플릿 중복 로딩, 서버 렌더링에 의한 과부하
+     앱 개발시 추가적인 백엔드 작업(생산성 문제) 개발 복잡.
+
+MPA-> SSR(server side rendering)
+SPA -> CSR(client side rendering)
+
+SPA는 CSR 이다 ? x
+SPA에서 SSR 사용이 가능하다? O  -> 프레임워크 존재(next,js 등, 물론 node.js도 가능)
+
+
+
+
+
+
+
+
+
+
+
+
+

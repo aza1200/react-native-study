@@ -1,0 +1,49 @@
+ 함수 선언
+function name([param[, param,[..., param]]]) { [statements] }
+
+name: 함수 이름    param: 함수로 전달되는 argument의 이름       statement: 함수의 몸통
+
+기본적으로 함수는 undefined를 반환, 따로 반환하기 위해서는 return 문 필요
+
+JS에서 함수선언은 해당 선언을 벗어난 범위로 끌어올리기 가능.
+
+hi();
+function hi(){ consolel.log("hello"); }
+단, 함수 표현식은 끌어올리기 불가
+
+함수 표현식: var myFunction = function [name]([param1[, param2[, ..., paramN]]]) { statements };
+
+함수 표현식과 함수 선언의 차이 : 함수 표현식으로 익명함수를 만들경우 '이름' 생략 가능&
+                                              함수 표현식은 정의하자마자 실행되는 IIFE로 사용가능 
+
+유명 함수 표현 : 함수 몸통 안에서 현재 함수를 사용하고 싶을 때 그 범위 안에서만 유명함수를 생성하여 사용가능.
+
+함수가 할당된 변수는 name 속성 가지고 .name으로 확인가능
+var foo = function() {}
+    foo.name // "foo"
+
+    var foo2 = foo
+    foo2.name // "foo"
+
+    var bar = function baz() {}
+    bar.name // "baz"
+
+    console.log(foo === foo2); // true
+    console.log(typeof baz); // undefined
+    console.log(bar === baz); // false (errors because baz == undefined)
+-------------------------------------------------------------------------------------------------------------------------------
+화살표 함수
+function(element) { return element.length;} 를
+(element) => { return element.length; }     //element가 한개일때는 소괄호 생략가능
+statement의 유일한 문장이 return 문장일 땐 return과 중괄호 생략가능
+--> element=>return { element.length }
+
+
+
+바인딩 되지 않은 this ~
+https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Functions/Arrow_functions
+bing() ~
+https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Function/bind
+
+
+
